@@ -15,7 +15,7 @@ dari himpunan.
 
 ### Notasi Simbol Himpunan
 <p align="left">
-	<img src="https://raw.githubusercontent.com/mchevro/BIU-Library/main/SEMESTER%201/LOGIKA%20INFORMATIKA/img/01_notasi_himpunan.jpg" width=500 />
+	<img src="https://raw.githubusercontent.com/mchevro/BIU-Library_public/main/LOGIKA%20INFORMATIKA/img/01_notasi_himpunan.jpg" width=500 />
 </p>
 
 
