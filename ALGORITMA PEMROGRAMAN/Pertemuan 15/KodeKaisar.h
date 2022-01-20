@@ -28,7 +28,7 @@ string Encrypt(string plain_teks){
     string cipher_teks;
     for(int i=0; i < plain_teks.length(); i++){
         /**
-         * @brief Rumus untuk melakukan Enkirpsi ROT3 adalah c = c + 3; 
+         * @brief Rumus untuk melakukan Enkripsi ROT3 adalah c = c + 3; 
          * 
          * Ex : 
          * c = 97 (a); 
@@ -45,7 +45,7 @@ string Encrypt(string plain_teks){
         }else if(c > 122){
             c = c - 26;
         }
-        cipher_teks = cipher_teks + char(c);
+        cipher_teks += char(c);
     }
     return cipher_teks;
 }
@@ -87,7 +87,7 @@ string Decrypt(string cipher_teks){
         }else if(c < 97){
             c = c + 26;
         }
-        plain_teks = plain_teks + char(c);
+        plain_teks += char(c);
     }
     return plain_teks;
 }
