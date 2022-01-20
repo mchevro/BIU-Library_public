@@ -57,7 +57,7 @@ string Encrypt(string plain_teks){
  */
 string Decrypt(string cipher_teks){
     /**
-     * @brief Varibale d berfungsi untuk mengconvert huruf menjadi
+     * @brief Varibale c berfungsi untuk mengconvert huruf menjadi
      * kode ascii dengan tipe data int.
      * 
      */
@@ -68,11 +68,11 @@ string Decrypt(string cipher_teks){
          * @brief Rumus untuk melakukan Dekripsi ROT3 adalah c = c - 3; 
          * 
          * Ex : 
-         * d = 97 (a); 
-         * d = d - 3 = 94 (UKNOWN);
+         * c = 97 (a); 
+         * c = c - 3 = 94 (UKNOWN);
          * 
-         * Jika d < 97, Maka
-         * d = d + 26 = 120 (x);
+         * Jika c < 97, Maka
+         * c = c + 26 = 120 (x);
          * 
          * plain_teks = x;
          * 
