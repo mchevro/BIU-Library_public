@@ -37,6 +37,7 @@ int main(){
         cout << "[1]. Register Data" << endl;
         cout << "[2]. Lihat Database (Enkripsi)" << endl;
         cout << "[3]. Lihat Database (Dekripsi)" << endl;
+        cout << "[4]. Tutup Program" << endl;
         cout << "-----------------------------" << endl;
         cout << "Opsi : "; cin >> opsi;
         cout << endl;
@@ -101,6 +102,9 @@ int main(){
             }
             break;
 
+        case '4':
+            exit(0);
+            break;
         default:
             cout << "Opsi Salah!" << endl;
             break;
