@@ -4,7 +4,6 @@
  * @brief Implementasi Algoritma Kode Kaisar ROT3
  * @version 0.1
  * @date 2022-01-04
- * @link 
  * @copyright Copyright (c) 2022
  * 
  */
@@ -28,13 +27,13 @@ int main(){
         switch (opsi)
         {
         case '1':
-            cout << "Plain Teks : "; cin >> plain_teks;
+            cout << "Plain Teks : ";cin.ignore(); getline(cin, plain_teks );
             cout << "Cipher Teks : " << Encrypt(plain_teks);
             cout << endl << endl;
             break;
         
         case '2':
-            cout << "Cipher Teks : "; cin >> cipher_teks;
+            cout << "Cipher Teks : ";cin.ignore(); getline(cin, cipher_teks);
             cout << "Plain Teks : " << Decrypt(cipher_teks);
             cout << endl << endl;
             break;
