@@ -40,9 +40,7 @@ string Encrypt(string plain_teks){
          */
         c = tolower(plain_teks[i]);
         c = c + 3;
-        if(c == 35){ 
-            c = c - 3; //RollBack Ke Spasi
-        }else if(c > 122){
+        if(c > 122){
             c = c - 26;
         }
         cipher_teks += char(c);
@@ -82,9 +80,7 @@ string Decrypt(string cipher_teks){
          */
         c = tolower(cipher_teks[i]);
         c = c - 3;
-        if(c == 29){
-            c = c + 3; //RollBack Ke Spasi
-        }else if(c < 97){
+        if(c < 97){
             c = c + 26;
         }
         plain_teks += char(c);
