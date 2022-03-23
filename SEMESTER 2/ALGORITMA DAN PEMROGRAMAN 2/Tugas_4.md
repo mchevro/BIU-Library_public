@@ -1,8 +1,4 @@
 # Cover
-Nama : Rina Sayekti <br>
-NPM : 2021320050 <br> 
-Prodi : Sistem Informasi <br>
-Tugas : 4 (Membuat Modul Tutorial)
 
 # Daftar Isi
 - [Cover](#cover)
