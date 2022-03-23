@@ -1,7 +1,7 @@
 # Cover
-Nama : Mahendra Chevro Susanto <br>
-NPM : 2021310101 <br> 
-Prodi : Teknik Informatika <br>
+Nama : Rina Sayekti <br>
+NPM : 2021320050 <br> 
+Prodi : Sistem Informasi <br>
 Tugas : 4 (Membuat Modul Tutorial)
 
 # Daftar Isi
