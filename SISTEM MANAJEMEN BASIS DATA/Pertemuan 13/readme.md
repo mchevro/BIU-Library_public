@@ -1,8 +1,7 @@
 ![image](https://user-images.githubusercontent.com/67460437/146961075-dd997cf2-6b31-4494-a071-54bb42156af0.png)
-## TESTED
-Udah gw test 3x di SQL Server 2019 lancar, gk ada error.
-## CARA PAKE
-1. Klik Link <a href="https://raw.githubusercontent.com/mchevro/BIU-Library_public/main/SISTEM%20MANAJEMEN%20BASIS%20DATA/Pertemuan%2013/BinaInsani.sql">Database Bina Insani</a>
+
+## CARA INSTALL
+1. Klik Link <a href="https://raw.githubusercontent.com/mchevro/BIU-Library_private/main/SEMESTER%201/SISTEM%20MANAJEMEN%20BASIS%20DATA/Pertemuan%2013/BinaInsani.sql?token=AQCV2VL7YHGYD4MGRUAABYLBYH3TG">Database Bina Insani</a>
 2. Copy semua source code.
 3. Buka sql server.
 4. Klik new query.
@@ -12,5 +11,5 @@ Udah gw test 3x di SQL Server 2019 lancar, gk ada error.
 8. Selesai.
 
 
-## ADA ERROR?
+## Gagal Install?
 PC gw, nanti gw ajarin tapi bayar 50K 🤪🤙

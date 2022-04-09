@@ -13,7 +13,7 @@ direkam dalam bentuk angka, huruf, simbol, teks, gambar, suara atau kombinasi.
 
 ### Hirarki Data
 <p align="center">
-	<img src="https://raw.githubusercontent.com/mchevro/BIU-Library_public/main/SISTEM%20MANAJEMEN%20BASIS%20DATA/img/01_hirarki_database.png" width=400 />
+	<img src="https://raw.githubusercontent.com/mchevro/BIU-Library/main/SEMESTER%201/SISTEM%20MANAJEMEN%20BASIS%20DATA/img/01_hirarki_database.png" width=400 />
 </p>
 
 ### Komponen Basis Data
