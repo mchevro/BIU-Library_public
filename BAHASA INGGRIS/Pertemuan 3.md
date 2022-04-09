@@ -20,7 +20,7 @@
 Ex : I'm sitting (saya sedang duduk), Mr. takrim is teaching in class (pak takrim sedang mengajar dikelas)
 
 ### Rumus
-- Positif : to be + verb 1 ing <br>
+- Positif : subject + to be + verb 1 ing <br>
 Ex : we are studying (kita sedang belajar), i am watching (saya sedang menonton), he is sleeping (dia sedang tidur)
 
 - Positif : subject + to be + Verb 1 ing + object <br>

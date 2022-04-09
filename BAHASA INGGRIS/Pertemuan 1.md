@@ -13,7 +13,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 ## Bab I
-## Simple Present
+## Simple Present Tense
 | No s/es | With s/es | With Don`t | With Doesn`t |
 |---------|-----------|------------| ------------ |
 | I       | She       | I          | She          |
@@ -29,13 +29,25 @@ Ex : one year has twelve months (satu tahun ada dua belas bulan)
 - Habitual Action adalah kebiasaan yang kita lakukan setiap hari. <br>
 Ex : I go to campus every day (aku pergi ke kampus setiap hari)
 
-### Rumus
+### Rumus Verbal
 - Positif : Subject + Verb 1 **es** + Object <br>
-Ex : She Plays Basketball
+Ex : Amir **goes** to the mosque every day.
 - Negatif : Subject + **Do Not/Does Not** + Verb 1 + Object <br>
-Ex : He Doesn`t  Care You
-- Pertanyaan : Do (not)/Does (not) + Subject + Verb 1 + Object? <br>
-Ex : Don't you like me?
+Ex : Amir **Does not go** to the mosque every Friday.
+- Pertanyaan Positif :  Do/does + Subject + Verb 1 + Object <br>
+Ex : **Does** Amir go to the mosque every day?.
+- Pertanyaan Negatif :  Do/does + Subject + Not + Verb 1 + Object <br>
+Ex : **Does** Amir **not go** to the mosque every friday?.
+
+### Rumus Nominal
+- Positif : Subject + tobe(is, am, are) +  Adjectives/Nouns/Adverbs <br>
+Ex : She **is** at home.
+- Negatif : Subject + tobe(is, am, are) + not +  Adjectives/Nouns/Adverbs <br>
+Ex : She **is not** at home.
+- Pertanyaan : tobe(is, am, are) + Subject + Adjectives/Nouns/Adverbs? <br>
+Ex : **Is** she at home? : Yes, she is/ No, she is not.
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 ## Bab II
 ### Auxiliary Verb
@@ -51,27 +63,33 @@ Ex : Don't you like me?
 
 Auxiliary adalah kata pembantu untuk melengkapi kata kerja utama dalam sebuah kalimat.
 
-### Rumus
 -------------------------------------------------------------------------------------------------------------------------------
-#### Be
-*Be* bisa meliputi am, is, are, was, were, been, being, dan to be yang biasanya digunakan untuk menerangkan kata kerja, kata benda, dan present participle. <br> <br>
-Untuk penggunaanya harus menyesuaikan dengan tense yang digunakan. <br>
-Ex : I am, I was, He is, He Was, They Are, You Were <br>
-#### Subject + Be + Verb ing Verb 3 <br>
-Ex : I Am Watching (saya menonton), I Am Eating (saya sedang makan), When I Was Cooking (ketika aku memasak)
+
+### Rumus Verbal
+- Positif : Subject + Verb 1 (s/es) + object <br>
+Ex : Amir read**s** a magazine every day.
+- Negatif : Subject + Do/does + not + Verb 1 + object <br>
+Ex : Amir **Does not** read a magazine every day.
+- Pertanyaan : Do/does + Subject + Verb 1 + Object <br>
+Ex : **Does** Amir read a magazine every day?.
+
+![image](https://user-images.githubusercontent.com/67460437/144722402-9e582cb5-7608-4e6b-8577-e283c2636ff7.png)
 
 -------------------------------------------------------------------------------------------------------------------------------
-#### Do
-kata bantu *do* berfungsi untuk menekankan perasaan atau kata kerja di depannya. kata bantu ini juga meliputi *does*, *did*, dan *done*. 
-#### Subject + Do/Does/Did + Verb 1 <br>
-Ex : I Dont Know (saya tidak tahu), I Didnt Know (saya tidak tahu) <br>
-Ex : Do You Know? (apakah kamu tahu?), Do We Know? (apakah kita tahu?), Did You Know? (tahukah kamu?) 
 
--------------------------------------------------------------------------------------------------------------------------------
-#### Have
-*Have* digunakan untuk perfect tense. *have* digunakan untuk kalimat present dan future perfect, sedangkan has digunakan untuk present perfect dan had untuk past perfect.  Singkatnya kalimat ini yang sedang berlangsung atau sudah selesai.
-#### Subject + Verb 3 <br>
-Ex : I Have Bought (aku telah membeli), We Had Bought (kita dulu sudah beli) <br>
-Ex : Has She Bought ? (sudahkah dia perempuan beli?)
+## Bab III
+### Yes/No Question
+#### Rumus 
+Auxiliary + Subject + .... ? Yes/No <br>
+Ex : Do you come late? No, I dont't
 
+### WH Question
+![image](https://user-images.githubusercontent.com/67460437/147268584-39713bdd-f85d-4c01-bda7-a5302514fc44.png)
+
+Untuk membuat pertanyaan dalam bahasa inggris menggunakan WH Question.
+
+#### Rumus
+WH + Auxiliary + Subject + .... ? Yes/No <br>
+Ex : Where do you come from? I come from Bekasi. <br>
+Ex : What are you doing? I am writing.
 
